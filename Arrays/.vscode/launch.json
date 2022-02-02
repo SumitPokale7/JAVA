@@ -1,0 +1,118 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Find_Numbers_Even_Number_Digits",
+            "request": "launch",
+            "mainClass": "Find_Numbers_Even_Number_Digits",
+            "projectName": "Arrays_7d8581e6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Matrix_Digonal_Sum",
+            "request": "launch",
+            "mainClass": "Matrix_Digonal_Sum",
+            "projectName": "Arrays_7d8581e6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Flipping_an_Image",
+            "request": "launch",
+            "mainClass": "Flipping_an_Image",
+            "projectName": "Arrays_7d8581e6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Build_An_Array_Permutation",
+            "request": "launch",
+            "mainClass": "Build_An_Array_Permutation",
+            "projectName": "Arrays_7d8581e6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Check_Sentance_Pangram",
+            "request": "launch",
+            "mainClass": "Check_Sentance_Pangram",
+            "projectName": "Arrays_7d8581e6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Concatenation_of_Array",
+            "request": "launch",
+            "mainClass": "Concatenation_of_Array",
+            "projectName": "Arrays_7d8581e6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Count_Item_Matching_Rule",
+            "request": "launch",
+            "mainClass": "Count_Item_Matching_Rule",
+            "projectName": "Arrays_7d8581e6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Find_Highest_Altitude",
+            "request": "launch",
+            "mainClass": "Find_Highest_Altitude",
+            "projectName": "Arrays_7d8581e6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Kids_With_Greatest_No_Candies",
+            "request": "launch",
+            "mainClass": "Kids_With_Greatest_No_Candies",
+            "projectName": "Arrays_7d8581e6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Number_of_Good_Pairs",
+            "request": "launch",
+            "mainClass": "Number_of_Good_Pairs",
+            "projectName": "Arrays_7d8581e6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Richest_Customer_Wealth",
+            "request": "launch",
+            "mainClass": "Richest_Customer_Wealth",
+            "projectName": "Arrays_7d8581e6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Shuffle_Array",
+            "request": "launch",
+            "mainClass": "Shuffle_Array",
+            "projectName": "Arrays_7d8581e6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Smaller_Than_Current_Number",
+            "request": "launch",
+            "mainClass": "Smaller_Than_Current_Number",
+            "projectName": "Arrays_7d8581e6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Target_Array_Given_Order",
+            "request": "launch",
+            "mainClass": "Target_Array_Given_Order",
+            "projectName": "Arrays_7d8581e6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Running_Sum_of_1d_Array",
+            "request": "launch",
+            "mainClass": "Running_Sum_of_1d_Array"
+        }
+    ]
+}

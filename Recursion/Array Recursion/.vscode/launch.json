@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch SelectionSort_Recur_06",
+            "request": "launch",
+            "mainClass": "SelectionSort_Recur_06",
+            "projectName": "Array Recursion_c83f142"
+        },
+        {
+            "type": "java",
+            "name": "Launch BubbleSort_Recur_05",
+            "request": "launch",
+            "mainClass": "BubbleSort_Recur_05",
+            "projectName": "Array Recursion_c83f142"
+        },
+        {
+            "type": "java",
+            "name": "Launch Triangle_Pattern_04",
+            "request": "launch",
+            "mainClass": "Triangle_Pattern_04",
+            "projectName": "Array Recursion_c83f142"
+        },
+        {
+            "type": "java",
+            "name": "Launch Rotated_Array_Binary_03",
+            "request": "launch",
+            "mainClass": "Rotated_Array_Binary_03",
+            "projectName": "Array Recursion_c83f142"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Linear_Search_02",
+            "request": "launch",
+            "mainClass": "Linear_Search_02",
+            "projectName": "Array Recursion_c83f142"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sorted_01",
+            "request": "launch",
+            "mainClass": "Sorted_01",
+            "projectName": "Array Recursion_c83f142"
+        }
+    ]
+}
