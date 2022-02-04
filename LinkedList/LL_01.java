@@ -1,4 +1,9 @@
-import java.util.LinkedList;
+
+//  Visualize What to do not the How to do 
+
+//  1. Try to Draw On Pen & Paper
+// Note. Don't See How to do it, See What it is Required
+//  2. See What is Required  
 
 public class LL_01 {
 
